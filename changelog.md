@@ -14,3 +14,7 @@ The versions are numbered as follows: x.y.z
 - v.0.0.2
   - Create changelog.md
     - This file will be used to track changes made to the repo files
+- v.0.0.3
+  - Edited the gitignore
+    - Added some lines so flutter specific items are ignored
+  - Creted the python virtual environment
